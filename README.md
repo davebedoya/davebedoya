@@ -68,6 +68,7 @@ Collaborative full-stack travel planning application built during a team code ja
 - Built frontend layouts using HTML and CSS
 - Assisted with testing and deployment support
 
+🔗 Live Demo: https://fancy-faloodeh-695333.netlify.app/
 🔗 GitHub Repo: https://github.com/davebedoya
 
 ## 📫 Contact
