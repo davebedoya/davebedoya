@@ -69,7 +69,7 @@ Collaborative full-stack travel planning application built during a team code ja
 - Assisted with testing and deployment support
 
 🔗 Live Demo: https://fancy-faloodeh-695333.netlify.app/
-🔗 GitHub Repo: https://github.com/davebedoya
+🔗 GitHub Repo: https://github.com/sensey0702/Project_CJ
 
 ## 📫 Contact
 
